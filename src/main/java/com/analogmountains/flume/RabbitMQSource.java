@@ -136,7 +136,6 @@ public class RabbitMQSource extends AbstractSource implements Configurable,
       headers.put("replyTo", properties.getReplyTo());
     }
     if (properties.getType() != null) {
-
       headers.put("type", properties.getType());
     }
     if (properties.getUserId() != null) {
