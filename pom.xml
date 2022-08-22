@@ -14,7 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <flume.version>1.9.0</flume.version>
+    <flume.version>1.10.1</flume.version>
     <rabbitmq.version>5.14.2</rabbitmq.version>
   </properties>
 
