@@ -15,7 +15,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <flume.version>1.11.0</flume.version>
-    <rabbitmq.version>5.18.0</rabbitmq.version>
+    <rabbitmq.version>5.19.0</rabbitmq.version>
   </properties>
 
   <dependencies>
